@@ -6,6 +6,7 @@ A professional, end-to-end machine learning application that predicts credit ris
 
 > ⚠️ **Educational Prototype** — This application uses a historical German credit dataset (1994, 1,000 records) and should not be used for real lending decisions.
 
+Link:https://creditlens-aigit-p8wwi2pa9mv9vqjypxuyu4.streamlit.app/
 ---
 
 ## ✨ Features
