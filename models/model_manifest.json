@@ -1,0 +1,15 @@
+{
+    "models": [
+        "xgb_model.joblib",
+        "mlp_model.joblib"
+    ],
+    "preprocessor": "preprocessor.joblib",
+    "feature_names": "feature_names.joblib",
+    "background_samples": "background_samples.joblib",
+    "test_samples": "test_samples.joblib",
+    "metrics": "metrics.json",
+    "train_size": 800,
+    "test_size": 200,
+    "n_features": 61,
+    "random_state": 42
+}
